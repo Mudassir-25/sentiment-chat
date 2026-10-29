@@ -1,0 +1,192 @@
+text,label,group
+The book was fantastic.,positive,pred:was fantastic
+My day was fantastic.,positive,pred:was fantastic
+The concert was fantastic.,positive,pred:was fantastic
+My commute was fantastic.,positive,pred:was fantastic
+This phone was fantastic.,positive,pred:was fantastic
+The restaurant was fantastic.,positive,pred:was fantastic
+Our meeting was fantastic.,positive,pred:was fantastic
+The restaurant was perfect.,positive,pred:was perfect
+My day was perfect.,positive,pred:was perfect
+Our meeting was perfect.,positive,pred:was perfect
+The new update was perfect.,positive,pred:was perfect
+This phone was perfect.,positive,pred:was perfect
+My coffee was perfect.,positive,pred:was perfect
+The service was perfect.,positive,pred:was perfect
+The book left me delighted.,positive,pred:left me delighted
+The lecture left me delighted.,positive,pred:left me delighted
+The restaurant left me delighted.,positive,pred:left me delighted
+The food left me delighted.,positive,pred:left me delighted
+The trip left me delighted.,positive,pred:left me delighted
+The concert left me delighted.,positive,pred:left me delighted
+Our meeting left me delighted.,positive,pred:left me delighted
+Her presentation was surprisingly good.,positive,pred:was surprisingly good
+The trip was surprisingly good.,positive,pred:was surprisingly good
+The service was surprisingly good.,positive,pred:was surprisingly good
+The hotel was surprisingly good.,positive,pred:was surprisingly good
+My day was surprisingly good.,positive,pred:was surprisingly good
+The restaurant was surprisingly good.,positive,pred:was surprisingly good
+The movie was surprisingly good.,positive,pred:was surprisingly good
+The restaurant was lovely and relaxing.,positive,pred:was lovely and relaxing
+The new update was lovely and relaxing.,positive,pred:was lovely and relaxing
+The food was lovely and relaxing.,positive,pred:was lovely and relaxing
+This phone was lovely and relaxing.,positive,pred:was lovely and relaxing
+The service was lovely and relaxing.,positive,pred:was lovely and relaxing
+My coffee was lovely and relaxing.,positive,pred:was lovely and relaxing
+The trip was lovely and relaxing.,positive,pred:was lovely and relaxing
+That class was sweet and thoughtful.,positive,pred:was sweet and thoughtful
+The restaurant was sweet and thoughtful.,positive,pred:was sweet and thoughtful
+The trip was sweet and thoughtful.,positive,pred:was sweet and thoughtful
+This app was sweet and thoughtful.,positive,pred:was sweet and thoughtful
+The movie was sweet and thoughtful.,positive,pred:was sweet and thoughtful
+The service was sweet and thoughtful.,positive,pred:was sweet and thoughtful
+The lecture was sweet and thoughtful.,positive,pred:was sweet and thoughtful
+My coffee was terrible.,negative,pred:was terrible
+This phone was terrible.,negative,pred:was terrible
+The weather was terrible.,negative,pred:was terrible
+The movie was terrible.,negative,pred:was terrible
+The new update was terrible.,negative,pred:was terrible
+The hotel was terrible.,negative,pred:was terrible
+The game was terrible.,negative,pred:was terrible
+The service was absolutely dreadful.,negative,pred:was absolutely dreadful
+The book was absolutely dreadful.,negative,pred:was absolutely dreadful
+Our meeting was absolutely dreadful.,negative,pred:was absolutely dreadful
+The restaurant was absolutely dreadful.,negative,pred:was absolutely dreadful
+The trip was absolutely dreadful.,negative,pred:was absolutely dreadful
+The weather was absolutely dreadful.,negative,pred:was absolutely dreadful
+My commute was absolutely dreadful.,negative,pred:was absolutely dreadful
+The trip was the worst.,negative,pred:was the worst
+The lecture was the worst.,negative,pred:was the worst
+This phone was the worst.,negative,pred:was the worst
+The movie was the worst.,negative,pred:was the worst
+The weather was the worst.,negative,pred:was the worst
+The new update was the worst.,negative,pred:was the worst
+The concert was the worst.,negative,pred:was the worst
+Our meeting was not good.,negative,pred:was not good
+The movie was not good.,negative,pred:was not good
+That class was not good.,negative,pred:was not good
+The lecture was not good.,negative,pred:was not good
+The new update was not good.,negative,pred:was not good
+The weather was not good.,negative,pred:was not good
+The service was not good.,negative,pred:was not good
+The hotel didn't live up to the hype.,negative,pred:didn't live up to the hype
+The food didn't live up to the hype.,negative,pred:didn't live up to the hype
+The concert didn't live up to the hype.,negative,pred:didn't live up to the hype
+The game didn't live up to the hype.,negative,pred:didn't live up to the hype
+My commute didn't live up to the hype.,negative,pred:didn't live up to the hype
+The service didn't live up to the hype.,negative,pred:didn't live up to the hype
+The lecture didn't live up to the hype.,negative,pred:didn't live up to the hype
+The concert was a total letdown.,negative,pred:was a total letdown
+The trip was a total letdown.,negative,pred:was a total letdown
+The game was a total letdown.,negative,pred:was a total letdown
+This app was a total letdown.,negative,pred:was a total letdown
+The book was a total letdown.,negative,pred:was a total letdown
+My commute was a total letdown.,negative,pred:was a total letdown
+Our meeting was a total letdown.,negative,pred:was a total letdown
+Our meeting was rude and unhelpful.,negative,pred:was rude and unhelpful
+My coffee was rude and unhelpful.,negative,pred:was rude and unhelpful
+The hotel was rude and unhelpful.,negative,pred:was rude and unhelpful
+The food was rude and unhelpful.,negative,pred:was rude and unhelpful
+My commute was rude and unhelpful.,negative,pred:was rude and unhelpful
+The movie was rude and unhelpful.,negative,pred:was rude and unhelpful
+The trip was rude and unhelpful.,negative,pred:was rude and unhelpful
+The trip was held on the second floor.,neutral,pred:was held on the second floor
+The game was held on the second floor.,neutral,pred:was held on the second floor
+The food was held on the second floor.,neutral,pred:was held on the second floor
+That class was held on the second floor.,neutral,pred:was held on the second floor
+The movie was held on the second floor.,neutral,pred:was held on the second floor
+The hotel was held on the second floor.,neutral,pred:was held on the second floor
+My day was held on the second floor.,neutral,pred:was held on the second floor
+The service includes a short break.,neutral,pred:includes a short break
+The game includes a short break.,neutral,pred:includes a short break
+The restaurant includes a short break.,neutral,pred:includes a short break
+The book includes a short break.,neutral,pred:includes a short break
+The new update includes a short break.,neutral,pred:includes a short break
+My coffee includes a short break.,neutral,pred:includes a short break
+The lecture includes a short break.,neutral,pred:includes a short break
+The food takes place in room twelve.,neutral,pred:takes place in room twelve
+The book takes place in room twelve.,neutral,pred:takes place in room twelve
+This app takes place in room twelve.,neutral,pred:takes place in room twelve
+The new update takes place in room twelve.,neutral,pred:takes place in room twelve
+The concert takes place in room twelve.,neutral,pred:takes place in room twelve
+My coffee takes place in room twelve.,neutral,pred:takes place in room twelve
+This phone takes place in room twelve.,neutral,pred:takes place in room twelve
+That class is described in the handbook.,neutral,pred:is described in the handbook
+My coffee is described in the handbook.,neutral,pred:is described in the handbook
+The hotel is described in the handbook.,neutral,pred:is described in the handbook
+The weather is described in the handbook.,neutral,pred:is described in the handbook
+The concert is described in the handbook.,neutral,pred:is described in the handbook
+The movie is described in the handbook.,neutral,pred:is described in the handbook
+This phone is described in the handbook.,neutral,pred:is described in the handbook
+My day covers the first chapter.,neutral,pred:covers the first chapter
+The book covers the first chapter.,neutral,pred:covers the first chapter
+The movie covers the first chapter.,neutral,pred:covers the first chapter
+The new update covers the first chapter.,neutral,pred:covers the first chapter
+This app covers the first chapter.,neutral,pred:covers the first chapter
+The hotel covers the first chapter.,neutral,pred:covers the first chapter
+The service covers the first chapter.,neutral,pred:covers the first chapter
+The food comes with a guide.,neutral,pred:comes with a guide
+This app comes with a guide.,neutral,pred:comes with a guide
+The weather comes with a guide.,neutral,pred:comes with a guide
+The lecture comes with a guide.,neutral,pred:comes with a guide
+My commute comes with a guide.,neutral,pred:comes with a guide
+My coffee comes with a guide.,neutral,pred:comes with a guide
+Her presentation comes with a guide.,neutral,pred:comes with a guide
+Our meeting was reported in the minutes.,neutral,pred:was reported in the minutes
+The concert was reported in the minutes.,neutral,pred:was reported in the minutes
+Her presentation was reported in the minutes.,neutral,pred:was reported in the minutes
+The restaurant was reported in the minutes.,neutral,pred:was reported in the minutes
+The book was reported in the minutes.,neutral,pred:was reported in the minutes
+My day was reported in the minutes.,neutral,pred:was reported in the minutes
+My commute was reported in the minutes.,neutral,pred:was reported in the minutes
+I got promoted and I'm thrilled.,positive,feel:I'm thrilled
+I got into my first-choice course and I'm thrilled.,positive,feel:I'm thrilled
+I passed my exam and I'm thrilled.,positive,feel:I'm thrilled
+I nailed the interview and I'm thrilled.,positive,feel:I'm thrilled
+I got the job and I'm thrilled.,positive,feel:I'm thrilled
+I won the match and I'm really proud.,positive,feel:I'm really proud
+I made the team and I'm really proud.,positive,feel:I'm really proud
+I nailed the interview and I'm really proud.,positive,feel:I'm really proud
+I finished my project and I'm really proud.,positive,feel:I'm really proud
+I got promoted and I'm really proud.,positive,feel:I'm really proud
+I got promoted and I could not be happier.,positive,feel:I could not be happier
+I passed my exam and I could not be happier.,positive,feel:I could not be happier
+I won the match and I could not be happier.,positive,feel:I could not be happier
+I got into my first-choice course and I could not be happier.,positive,feel:I could not be happier
+I finished my project and I could not be happier.,positive,feel:I could not be happier
+I nailed the interview and it feels wonderful.,positive,feel:it feels wonderful
+I passed my exam and it feels wonderful.,positive,feel:it feels wonderful
+I got promoted and it feels wonderful.,positive,feel:it feels wonderful
+I won the match and it feels wonderful.,positive,feel:it feels wonderful
+I finished my project and it feels wonderful.,positive,feel:it feels wonderful
+The trip was great.,positive,adj:positive:great
+I thought the restaurant was great.,positive,adj:positive:great
+"Honestly, the game seemed great.",positive,adj:positive:great
+"Honestly, the food seemed heartwarming.",positive,adj:positive:heartwarming
+I thought that class was heartwarming.,positive,adj:positive:heartwarming
+The concert was really heartwarming.,positive,adj:positive:heartwarming
+"Honestly, the concert seemed splendid.",positive,adj:positive:splendid
+I thought the restaurant was splendid.,positive,adj:positive:splendid
+The game was splendid.,positive,adj:positive:splendid
+The game was really gloomy.,negative,adj:negative:gloomy
+Her presentation was gloomy.,negative,adj:negative:gloomy
+I thought the lecture was gloomy.,negative,adj:negative:gloomy
+I thought the service was unbearable.,negative,adj:negative:unbearable
+"Honestly, the lecture seemed unbearable.",negative,adj:negative:unbearable
+The lecture was unbearable.,negative,adj:negative:unbearable
+The concert was not great.,negative,notadj:great
+Her presentation was not superb.,negative,notadj:superb
+The trip was not enjoyable.,negative,notadj:enjoyable
+The concert was not cozy.,negative,notadj:cozy
+This app was not painful.,positive,notadj:painful
+The food was not tedious.,positive,notadj:tedious
+The book was not gloomy.,positive,notadj:gloomy
+"gr8 stuff, really enjoyed it",positive,"short:gr8 stuff, really enjoyed it"
+hated it 😡,negative,short:hated it 😡
+0/10 would not recommend,negative,short:0/10 would not recommend
+total garbage tbh,negative,short:total garbage tbh
+so tired of this nonsense,negative,short:so tired of this nonsense
+it is Tuesday,neutral,short:it is Tuesday
+running a bit early,neutral,short:running a bit early
+the form is online,neutral,short:the form is online
+reading chapter two,neutral,short:reading chapter two

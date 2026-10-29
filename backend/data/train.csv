@@ -1,0 +1,736 @@
+text,label,group
+The service was amazing.,positive,pred:was amazing
+My coffee was amazing.,positive,pred:was amazing
+My day was amazing.,positive,pred:was amazing
+This app was amazing.,positive,pred:was amazing
+Our meeting was amazing.,positive,pred:was amazing
+The movie was amazing.,positive,pred:was amazing
+The weather was amazing.,positive,pred:was amazing
+The game made me really happy.,positive,pred:made me really happy
+The lecture made me really happy.,positive,pred:made me really happy
+The food made me really happy.,positive,pred:made me really happy
+The concert made me really happy.,positive,pred:made me really happy
+The weather made me really happy.,positive,pred:made me really happy
+That class made me really happy.,positive,pred:made me really happy
+Our meeting made me really happy.,positive,pred:made me really happy
+My day turned out great.,positive,pred:turned out great
+My commute turned out great.,positive,pred:turned out great
+The service turned out great.,positive,pred:turned out great
+The concert turned out great.,positive,pred:turned out great
+The lecture turned out great.,positive,pred:turned out great
+The new update turned out great.,positive,pred:turned out great
+Her presentation turned out great.,positive,pred:turned out great
+This phone was so much fun.,positive,pred:was so much fun
+The weather was so much fun.,positive,pred:was so much fun
+The service was so much fun.,positive,pred:was so much fun
+The new update was so much fun.,positive,pred:was so much fun
+The trip was so much fun.,positive,pred:was so much fun
+My day was so much fun.,positive,pred:was so much fun
+This app was so much fun.,positive,pred:was so much fun
+My commute exceeded my expectations.,positive,pred:exceeded my expectations
+Our meeting exceeded my expectations.,positive,pred:exceeded my expectations
+My coffee exceeded my expectations.,positive,pred:exceeded my expectations
+The service exceeded my expectations.,positive,pred:exceeded my expectations
+The food exceeded my expectations.,positive,pred:exceeded my expectations
+The new update exceeded my expectations.,positive,pred:exceeded my expectations
+The movie exceeded my expectations.,positive,pred:exceeded my expectations
+The lecture went really well.,positive,pred:went really well
+Our meeting went really well.,positive,pred:went really well
+The restaurant went really well.,positive,pred:went really well
+The game went really well.,positive,pred:went really well
+The hotel went really well.,positive,pred:went really well
+The concert went really well.,positive,pred:went really well
+The new update went really well.,positive,pred:went really well
+Her presentation was absolutely lovely.,positive,pred:was absolutely lovely
+My coffee was absolutely lovely.,positive,pred:was absolutely lovely
+The new update was absolutely lovely.,positive,pred:was absolutely lovely
+The concert was absolutely lovely.,positive,pred:was absolutely lovely
+The trip was absolutely lovely.,positive,pred:was absolutely lovely
+My commute was absolutely lovely.,positive,pred:was absolutely lovely
+The book was absolutely lovely.,positive,pred:was absolutely lovely
+The concert was a pleasant surprise.,positive,pred:was a pleasant surprise
+The food was a pleasant surprise.,positive,pred:was a pleasant surprise
+The new update was a pleasant surprise.,positive,pred:was a pleasant surprise
+This app was a pleasant surprise.,positive,pred:was a pleasant surprise
+The restaurant was a pleasant surprise.,positive,pred:was a pleasant surprise
+Her presentation was a pleasant surprise.,positive,pred:was a pleasant surprise
+The trip was a pleasant surprise.,positive,pred:was a pleasant surprise
+The hotel was truly impressive.,positive,pred:was truly impressive
+This phone was truly impressive.,positive,pred:was truly impressive
+The restaurant was truly impressive.,positive,pred:was truly impressive
+The game was truly impressive.,positive,pred:was truly impressive
+My day was truly impressive.,positive,pred:was truly impressive
+The lecture was truly impressive.,positive,pred:was truly impressive
+The weather was truly impressive.,positive,pred:was truly impressive
+The weather was awesome.,positive,pred:was awesome
+My commute was awesome.,positive,pred:was awesome
+The hotel was awesome.,positive,pred:was awesome
+The lecture was awesome.,positive,pred:was awesome
+My coffee was awesome.,positive,pred:was awesome
+The new update was awesome.,positive,pred:was awesome
+The concert was awesome.,positive,pred:was awesome
+My commute was brilliant.,positive,pred:was brilliant
+Her presentation was brilliant.,positive,pred:was brilliant
+The food was brilliant.,positive,pred:was brilliant
+The weather was brilliant.,positive,pred:was brilliant
+That class was brilliant.,positive,pred:was brilliant
+The concert was brilliant.,positive,pred:was brilliant
+My coffee was brilliant.,positive,pred:was brilliant
+The food was better than I hoped.,positive,pred:was better than I hoped
+My day was better than I hoped.,positive,pred:was better than I hoped
+The new update was better than I hoped.,positive,pred:was better than I hoped
+Her presentation was better than I hoped.,positive,pred:was better than I hoped
+The weather was better than I hoped.,positive,pred:was better than I hoped
+My coffee was better than I hoped.,positive,pred:was better than I hoped
+Our meeting was better than I hoped.,positive,pred:was better than I hoped
+My coffee was really enjoyable.,positive,pred:was really enjoyable
+The movie was really enjoyable.,positive,pred:was really enjoyable
+Her presentation was really enjoyable.,positive,pred:was really enjoyable
+The lecture was really enjoyable.,positive,pred:was really enjoyable
+The trip was really enjoyable.,positive,pred:was really enjoyable
+The new update was really enjoyable.,positive,pred:was really enjoyable
+My day was really enjoyable.,positive,pred:was really enjoyable
+My coffee wasn't terrible.,positive,pred:wasn't terrible
+The book wasn't terrible.,positive,pred:wasn't terrible
+The concert wasn't terrible.,positive,pred:wasn't terrible
+This phone wasn't terrible.,positive,pred:wasn't terrible
+The food wasn't terrible.,positive,pred:wasn't terrible
+The restaurant wasn't terrible.,positive,pred:wasn't terrible
+Her presentation wasn't terrible.,positive,pred:wasn't terrible
+The concert was not disappointing.,positive,pred:was not disappointing
+The lecture was not disappointing.,positive,pred:was not disappointing
+The movie was not disappointing.,positive,pred:was not disappointing
+The restaurant was not disappointing.,positive,pred:was not disappointing
+The trip was not disappointing.,positive,pred:was not disappointing
+This phone was not disappointing.,positive,pred:was not disappointing
+Her presentation was not disappointing.,positive,pred:was not disappointing
+This app was not a waste of time.,positive,pred:was not a waste of time
+My day was not a waste of time.,positive,pred:was not a waste of time
+Her presentation was not a waste of time.,positive,pred:was not a waste of time
+The book was not a waste of time.,positive,pred:was not a waste of time
+The lecture was not a waste of time.,positive,pred:was not a waste of time
+Our meeting was not a waste of time.,positive,pred:was not a waste of time
+The weather was not a waste of time.,positive,pred:was not a waste of time
+"The service wasn't bad, actually good.",positive,"pred:wasn't bad, actually good"
+"The restaurant wasn't bad, actually good.",positive,"pred:wasn't bad, actually good"
+"The book wasn't bad, actually good.",positive,"pred:wasn't bad, actually good"
+"My day wasn't bad, actually good.",positive,"pred:wasn't bad, actually good"
+"Our meeting wasn't bad, actually good.",positive,"pred:wasn't bad, actually good"
+"This app wasn't bad, actually good.",positive,"pred:wasn't bad, actually good"
+"The lecture wasn't bad, actually good.",positive,"pred:wasn't bad, actually good"
+My commute was a real highlight.,positive,pred:was a real highlight
+This phone was a real highlight.,positive,pred:was a real highlight
+The weather was a real highlight.,positive,pred:was a real highlight
+The service was a real highlight.,positive,pred:was a real highlight
+My coffee was a real highlight.,positive,pred:was a real highlight
+The new update was a real highlight.,positive,pred:was a real highlight
+The movie was a real highlight.,positive,pred:was a real highlight
+The food felt great.,positive,pred:felt great
+Our meeting felt great.,positive,pred:felt great
+The book felt great.,positive,pred:felt great
+This phone felt great.,positive,pred:felt great
+That class felt great.,positive,pred:felt great
+The trip felt great.,positive,pred:felt great
+The new update felt great.,positive,pred:felt great
+My coffee was so good I'd recommend it.,positive,pred:was so good I'd recommend it
+The restaurant was so good I'd recommend it.,positive,pred:was so good I'd recommend it
+The service was so good I'd recommend it.,positive,pred:was so good I'd recommend it
+The weather was so good I'd recommend it.,positive,pred:was so good I'd recommend it
+My commute was so good I'd recommend it.,positive,pred:was so good I'd recommend it
+The concert was so good I'd recommend it.,positive,pred:was so good I'd recommend it
+Her presentation was so good I'd recommend it.,positive,pred:was so good I'd recommend it
+The food was awful.,negative,pred:was awful
+That class was awful.,negative,pred:was awful
+This app was awful.,negative,pred:was awful
+My coffee was awful.,negative,pred:was awful
+The trip was awful.,negative,pred:was awful
+The restaurant was awful.,negative,pred:was awful
+The book was awful.,negative,pred:was awful
+The concert made me really upset.,negative,pred:made me really upset
+The weather made me really upset.,negative,pred:made me really upset
+My commute made me really upset.,negative,pred:made me really upset
+This app made me really upset.,negative,pred:made me really upset
+The hotel made me really upset.,negative,pred:made me really upset
+The restaurant made me really upset.,negative,pred:made me really upset
+The service made me really upset.,negative,pred:made me really upset
+The lecture turned out badly.,negative,pred:turned out badly
+Our meeting turned out badly.,negative,pred:turned out badly
+The concert turned out badly.,negative,pred:turned out badly
+The book turned out badly.,negative,pred:turned out badly
+The weather turned out badly.,negative,pred:turned out badly
+The service turned out badly.,negative,pred:turned out badly
+That class turned out badly.,negative,pred:turned out badly
+The restaurant was horrible.,negative,pred:was horrible
+My coffee was horrible.,negative,pred:was horrible
+The movie was horrible.,negative,pred:was horrible
+The weather was horrible.,negative,pred:was horrible
+That class was horrible.,negative,pred:was horrible
+The concert was horrible.,negative,pred:was horrible
+This phone was horrible.,negative,pred:was horrible
+Our meeting was so boring.,negative,pred:was so boring
+My coffee was so boring.,negative,pred:was so boring
+Her presentation was so boring.,negative,pred:was so boring
+My commute was so boring.,negative,pred:was so boring
+This app was so boring.,negative,pred:was so boring
+My day was so boring.,negative,pred:was so boring
+The service was so boring.,negative,pred:was so boring
+The lecture went really badly.,negative,pred:went really badly
+The movie went really badly.,negative,pred:went really badly
+The restaurant went really badly.,negative,pred:went really badly
+My coffee went really badly.,negative,pred:went really badly
+The food went really badly.,negative,pred:went really badly
+The game went really badly.,negative,pred:went really badly
+The hotel went really badly.,negative,pred:went really badly
+The hotel was a waste of time.,negative,pred:was a waste of time
+The food was a waste of time.,negative,pred:was a waste of time
+The book was a waste of time.,negative,pred:was a waste of time
+Her presentation was a waste of time.,negative,pred:was a waste of time
+The weather was a waste of time.,negative,pred:was a waste of time
+My coffee was a waste of time.,negative,pred:was a waste of time
+My day was a waste of time.,negative,pred:was a waste of time
+The service was a mess.,negative,pred:was a mess
+This app was a mess.,negative,pred:was a mess
+This phone was a mess.,negative,pred:was a mess
+The game was a mess.,negative,pred:was a mess
+Our meeting was a mess.,negative,pred:was a mess
+My commute was a mess.,negative,pred:was a mess
+Her presentation was a mess.,negative,pred:was a mess
+My commute wasn't great.,negative,pred:wasn't great
+The hotel wasn't great.,negative,pred:wasn't great
+That class wasn't great.,negative,pred:wasn't great
+The game wasn't great.,negative,pred:wasn't great
+This phone wasn't great.,negative,pred:wasn't great
+The movie wasn't great.,negative,pred:wasn't great
+My coffee wasn't great.,negative,pred:wasn't great
+My coffee was not enjoyable.,negative,pred:was not enjoyable
+Her presentation was not enjoyable.,negative,pred:was not enjoyable
+This app was not enjoyable.,negative,pred:was not enjoyable
+The game was not enjoyable.,negative,pred:was not enjoyable
+This phone was not enjoyable.,negative,pred:was not enjoyable
+That class was not enjoyable.,negative,pred:was not enjoyable
+The food was not enjoyable.,negative,pred:was not enjoyable
+This app was not worth it.,negative,pred:was not worth it
+The lecture was not worth it.,negative,pred:was not worth it
+The movie was not worth it.,negative,pred:was not worth it
+Her presentation was not worth it.,negative,pred:was not worth it
+The trip was not worth it.,negative,pred:was not worth it
+The new update was not worth it.,negative,pred:was not worth it
+The weather was not worth it.,negative,pred:was not worth it
+The hotel never worked properly.,negative,pred:never worked properly
+This app never worked properly.,negative,pred:never worked properly
+My commute never worked properly.,negative,pred:never worked properly
+The restaurant never worked properly.,negative,pred:never worked properly
+The service never worked properly.,negative,pred:never worked properly
+Her presentation never worked properly.,negative,pred:never worked properly
+That class never worked properly.,negative,pred:never worked properly
+My day wasn't fun at all.,negative,pred:wasn't fun at all
+The concert wasn't fun at all.,negative,pred:wasn't fun at all
+Our meeting wasn't fun at all.,negative,pred:wasn't fun at all
+That class wasn't fun at all.,negative,pred:wasn't fun at all
+The lecture wasn't fun at all.,negative,pred:wasn't fun at all
+The book wasn't fun at all.,negative,pred:wasn't fun at all
+The restaurant wasn't fun at all.,negative,pred:wasn't fun at all
+This app was really annoying.,negative,pred:was really annoying
+Her presentation was really annoying.,negative,pred:was really annoying
+The weather was really annoying.,negative,pred:was really annoying
+The movie was really annoying.,negative,pred:was really annoying
+The food was really annoying.,negative,pred:was really annoying
+The concert was really annoying.,negative,pred:was really annoying
+The trip was really annoying.,negative,pred:was really annoying
+The weather was extremely poor.,negative,pred:was extremely poor
+The restaurant was extremely poor.,negative,pred:was extremely poor
+This app was extremely poor.,negative,pred:was extremely poor
+The concert was extremely poor.,negative,pred:was extremely poor
+That class was extremely poor.,negative,pred:was extremely poor
+Her presentation was extremely poor.,negative,pred:was extremely poor
+My commute was extremely poor.,negative,pred:was extremely poor
+Our meeting was far from good.,negative,pred:was far from good
+Her presentation was far from good.,negative,pred:was far from good
+This phone was far from good.,negative,pred:was far from good
+The game was far from good.,negative,pred:was far from good
+The service was far from good.,negative,pred:was far from good
+The lecture was far from good.,negative,pred:was far from good
+The concert was far from good.,negative,pred:was far from good
+The new update was so disappointing.,negative,pred:was so disappointing
+The service was so disappointing.,negative,pred:was so disappointing
+This phone was so disappointing.,negative,pred:was so disappointing
+My coffee was so disappointing.,negative,pred:was so disappointing
+The weather was so disappointing.,negative,pred:was so disappointing
+The restaurant was so disappointing.,negative,pred:was so disappointing
+The food was so disappointing.,negative,pred:was so disappointing
+Her presentation felt exhausting and pointless.,negative,pred:felt exhausting and pointless
+The concert felt exhausting and pointless.,negative,pred:felt exhausting and pointless
+The service felt exhausting and pointless.,negative,pred:felt exhausting and pointless
+The book felt exhausting and pointless.,negative,pred:felt exhausting and pointless
+The restaurant felt exhausting and pointless.,negative,pred:felt exhausting and pointless
+The food felt exhausting and pointless.,negative,pred:felt exhausting and pointless
+The hotel felt exhausting and pointless.,negative,pred:felt exhausting and pointless
+The lecture was released on Tuesday.,neutral,pred:was released on Tuesday
+The new update was released on Tuesday.,neutral,pred:was released on Tuesday
+This app was released on Tuesday.,neutral,pred:was released on Tuesday
+The food was released on Tuesday.,neutral,pred:was released on Tuesday
+The service was released on Tuesday.,neutral,pred:was released on Tuesday
+Her presentation was released on Tuesday.,neutral,pred:was released on Tuesday
+The book was released on Tuesday.,neutral,pred:was released on Tuesday
+The concert starts at nine.,neutral,pred:starts at nine
+The service starts at nine.,neutral,pred:starts at nine
+The food starts at nine.,neutral,pred:starts at nine
+That class starts at nine.,neutral,pred:starts at nine
+This app starts at nine.,neutral,pred:starts at nine
+The movie starts at nine.,neutral,pred:starts at nine
+The book starts at nine.,neutral,pred:starts at nine
+The trip has three sections.,neutral,pred:has three sections
+That class has three sections.,neutral,pred:has three sections
+This phone has three sections.,neutral,pred:has three sections
+The game has three sections.,neutral,pred:has three sections
+My commute has three sections.,neutral,pred:has three sections
+Our meeting has three sections.,neutral,pred:has three sections
+The food has three sections.,neutral,pred:has three sections
+The weather is located downtown.,neutral,pred:is located downtown
+This app is located downtown.,neutral,pred:is located downtown
+The restaurant is located downtown.,neutral,pred:is located downtown
+The hotel is located downtown.,neutral,pred:is located downtown
+The food is located downtown.,neutral,pred:is located downtown
+This phone is located downtown.,neutral,pred:is located downtown
+The movie is located downtown.,neutral,pred:is located downtown
+That class lasts about an hour.,neutral,pred:lasts about an hour
+The food lasts about an hour.,neutral,pred:lasts about an hour
+The concert lasts about an hour.,neutral,pred:lasts about an hour
+My commute lasts about an hour.,neutral,pred:lasts about an hour
+The lecture lasts about an hour.,neutral,pred:lasts about an hour
+The game lasts about an hour.,neutral,pred:lasts about an hour
+My day lasts about an hour.,neutral,pred:lasts about an hour
+Her presentation is open on weekdays.,neutral,pred:is open on weekdays
+The movie is open on weekdays.,neutral,pred:is open on weekdays
+The hotel is open on weekdays.,neutral,pred:is open on weekdays
+The game is open on weekdays.,neutral,pred:is open on weekdays
+That class is open on weekdays.,neutral,pred:is open on weekdays
+The new update is open on weekdays.,neutral,pred:is open on weekdays
+The food is open on weekdays.,neutral,pred:is open on weekdays
+My day was scheduled for Monday.,neutral,pred:was scheduled for Monday
+This app was scheduled for Monday.,neutral,pred:was scheduled for Monday
+The concert was scheduled for Monday.,neutral,pred:was scheduled for Monday
+The service was scheduled for Monday.,neutral,pred:was scheduled for Monday
+The trip was scheduled for Monday.,neutral,pred:was scheduled for Monday
+This phone was scheduled for Monday.,neutral,pred:was scheduled for Monday
+The movie was scheduled for Monday.,neutral,pred:was scheduled for Monday
+The trip has been moved to next week.,neutral,pred:has been moved to next week
+Our meeting has been moved to next week.,neutral,pred:has been moved to next week
+The new update has been moved to next week.,neutral,pred:has been moved to next week
+The weather has been moved to next week.,neutral,pred:has been moved to next week
+My commute has been moved to next week.,neutral,pred:has been moved to next week
+This phone has been moved to next week.,neutral,pred:has been moved to next week
+The concert has been moved to next week.,neutral,pred:has been moved to next week
+This app is on the main street.,neutral,pred:is on the main street
+The trip is on the main street.,neutral,pred:is on the main street
+That class is on the main street.,neutral,pred:is on the main street
+My coffee is on the main street.,neutral,pred:is on the main street
+The movie is on the main street.,neutral,pred:is on the main street
+This phone is on the main street.,neutral,pred:is on the main street
+The restaurant is on the main street.,neutral,pred:is on the main street
+The concert is available in two sizes.,neutral,pred:is available in two sizes
+The hotel is available in two sizes.,neutral,pred:is available in two sizes
+Our meeting is available in two sizes.,neutral,pred:is available in two sizes
+This phone is available in two sizes.,neutral,pred:is available in two sizes
+The book is available in two sizes.,neutral,pred:is available in two sizes
+The trip is available in two sizes.,neutral,pred:is available in two sizes
+The movie is available in two sizes.,neutral,pred:is available in two sizes
+My day ends at five.,neutral,pred:ends at five
+Her presentation ends at five.,neutral,pred:ends at five
+The trip ends at five.,neutral,pred:ends at five
+The weather ends at five.,neutral,pred:ends at five
+That class ends at five.,neutral,pred:ends at five
+The concert ends at five.,neutral,pred:ends at five
+The movie ends at five.,neutral,pred:ends at five
+Our meeting was updated last month.,neutral,pred:was updated last month
+My coffee was updated last month.,neutral,pred:was updated last month
+The trip was updated last month.,neutral,pred:was updated last month
+The movie was updated last month.,neutral,pred:was updated last month
+The hotel was updated last month.,neutral,pred:was updated last month
+The lecture was updated last month.,neutral,pred:was updated last month
+My day was updated last month.,neutral,pred:was updated last month
+The restaurant needs a login.,neutral,pred:needs a login
+That class needs a login.,neutral,pred:needs a login
+This app needs a login.,neutral,pred:needs a login
+Our meeting needs a login.,neutral,pred:needs a login
+The concert needs a login.,neutral,pred:needs a login
+My commute needs a login.,neutral,pred:needs a login
+The book needs a login.,neutral,pred:needs a login
+The movie is run by the student office.,neutral,pred:is run by the student office
+The food is run by the student office.,neutral,pred:is run by the student office
+That class is run by the student office.,neutral,pred:is run by the student office
+My commute is run by the student office.,neutral,pred:is run by the student office
+This phone is run by the student office.,neutral,pred:is run by the student office
+Our meeting is run by the student office.,neutral,pred:is run by the student office
+The new update is run by the student office.,neutral,pred:is run by the student office
+The food was recorded yesterday.,neutral,pred:was recorded yesterday
+My commute was recorded yesterday.,neutral,pred:was recorded yesterday
+This app was recorded yesterday.,neutral,pred:was recorded yesterday
+This phone was recorded yesterday.,neutral,pred:was recorded yesterday
+The book was recorded yesterday.,neutral,pred:was recorded yesterday
+The restaurant was recorded yesterday.,neutral,pred:was recorded yesterday
+The trip was recorded yesterday.,neutral,pred:was recorded yesterday
+This app has twenty participants.,neutral,pred:has twenty participants
+The game has twenty participants.,neutral,pred:has twenty participants
+The lecture has twenty participants.,neutral,pred:has twenty participants
+This phone has twenty participants.,neutral,pred:has twenty participants
+The movie has twenty participants.,neutral,pred:has twenty participants
+My commute has twenty participants.,neutral,pred:has twenty participants
+The hotel has twenty participants.,neutral,pred:has twenty participants
+My coffee requires an ID.,neutral,pred:requires an ID
+The service requires an ID.,neutral,pred:requires an ID
+The book requires an ID.,neutral,pred:requires an ID
+Her presentation requires an ID.,neutral,pred:requires an ID
+My day requires an ID.,neutral,pred:requires an ID
+The hotel requires an ID.,neutral,pred:requires an ID
+The movie requires an ID.,neutral,pred:requires an ID
+The weather was listed under events.,neutral,pred:was listed under events
+The concert was listed under events.,neutral,pred:was listed under events
+The restaurant was listed under events.,neutral,pred:was listed under events
+That class was listed under events.,neutral,pred:was listed under events
+The movie was listed under events.,neutral,pred:was listed under events
+My commute was listed under events.,neutral,pred:was listed under events
+The book was listed under events.,neutral,pred:was listed under events
+The restaurant runs twice a day.,neutral,pred:runs twice a day
+That class runs twice a day.,neutral,pred:runs twice a day
+The food runs twice a day.,neutral,pred:runs twice a day
+My commute runs twice a day.,neutral,pred:runs twice a day
+The concert runs twice a day.,neutral,pred:runs twice a day
+My coffee runs twice a day.,neutral,pred:runs twice a day
+The book runs twice a day.,neutral,pred:runs twice a day
+I got the job and I feel amazing.,positive,feel:I feel amazing
+I got promoted and I feel amazing.,positive,feel:I feel amazing
+I nailed the interview and I feel amazing.,positive,feel:I feel amazing
+I finished my project and I feel amazing.,positive,feel:I feel amazing
+I got into my first-choice course and I feel amazing.,positive,feel:I feel amazing
+I got promoted and I'm so happy.,positive,feel:I'm so happy
+I nailed the interview and I'm so happy.,positive,feel:I'm so happy
+I got into my first-choice course and I'm so happy.,positive,feel:I'm so happy
+I got the job and I'm so happy.,positive,feel:I'm so happy
+I passed my exam and I'm so happy.,positive,feel:I'm so happy
+I failed the interview and I'm devastated.,negative,feel:I'm devastated
+I lost my job and I'm devastated.,negative,feel:I'm devastated
+I lost my wallet and I'm devastated.,negative,feel:I'm devastated
+I failed my exam and I'm devastated.,negative,feel:I'm devastated
+I lost the match and I'm devastated.,negative,feel:I'm devastated
+I missed the deadline and I feel awful.,negative,feel:I feel awful
+I got rejected and I feel awful.,negative,feel:I feel awful
+I lost the match and I feel awful.,negative,feel:I feel awful
+I lost my wallet and I feel awful.,negative,feel:I feel awful
+I failed the interview and I feel awful.,negative,feel:I feel awful
+I missed the deadline and I'm so upset.,negative,feel:I'm so upset
+I lost the match and I'm so upset.,negative,feel:I'm so upset
+I got rejected and I'm so upset.,negative,feel:I'm so upset
+I failed the interview and I'm so upset.,negative,feel:I'm so upset
+I lost my wallet and I'm so upset.,negative,feel:I'm so upset
+I lost my job and it feels terrible.,negative,feel:it feels terrible
+I got rejected and it feels terrible.,negative,feel:it feels terrible
+I missed the deadline and it feels terrible.,negative,feel:it feels terrible
+I lost my wallet and it feels terrible.,negative,feel:it feels terrible
+I broke my phone and it feels terrible.,negative,feel:it feels terrible
+I lost my wallet and I'm really disappointed.,negative,feel:I'm really disappointed
+I broke my phone and I'm really disappointed.,negative,feel:I'm really disappointed
+I failed my exam and I'm really disappointed.,negative,feel:I'm really disappointed
+I lost my job and I'm really disappointed.,negative,feel:I'm really disappointed
+I got rejected and I'm really disappointed.,negative,feel:I'm really disappointed
+I lost my wallet and I'm heartbroken.,negative,feel:I'm heartbroken
+I got rejected and I'm heartbroken.,negative,feel:I'm heartbroken
+I broke my phone and I'm heartbroken.,negative,feel:I'm heartbroken
+I failed the interview and I'm heartbroken.,negative,feel:I'm heartbroken
+I missed the deadline and I'm heartbroken.,negative,feel:I'm heartbroken
+I lost my job and it hurts a lot.,negative,feel:it hurts a lot
+I failed the interview and it hurts a lot.,negative,feel:it hurts a lot
+I missed the deadline and it hurts a lot.,negative,feel:it hurts a lot
+I failed my exam and it hurts a lot.,negative,feel:it hurts a lot
+I got rejected and it hurts a lot.,negative,feel:it hurts a lot
+Today I picked up a parcel.,neutral,frame:Today I {e}.
+Today I renewed my card.,neutral,frame:Today I {e}.
+Today I joined a call.,neutral,frame:Today I {e}.
+Today I submitted my report.,neutral,frame:Today I {e}.
+Today I went to the library.,neutral,frame:Today I {e}.
+Today I booked a table.,neutral,frame:Today I {e}.
+I submitted my report this morning.,neutral,frame:I {e} this morning.
+I picked up a parcel this morning.,neutral,frame:I {e} this morning.
+I booked a table this morning.,neutral,frame:I {e} this morning.
+I renewed my card this morning.,neutral,frame:I {e} this morning.
+I moved to a new desk this morning.,neutral,frame:I {e} this morning.
+I updated my calendar this morning.,neutral,frame:I {e} this morning.
+Yesterday I renewed my card.,neutral,frame:Yesterday I {e}.
+Yesterday I joined a call.,neutral,frame:Yesterday I {e}.
+Yesterday I moved to a new desk.,neutral,frame:Yesterday I {e}.
+Yesterday I submitted my report.,neutral,frame:Yesterday I {e}.
+Yesterday I booked a table.,neutral,frame:Yesterday I {e}.
+Yesterday I went to the library.,neutral,frame:Yesterday I {e}.
+I moved to a new desk and then went home.,neutral,frame:I {e} and then went home.
+I renewed my card and then went home.,neutral,frame:I {e} and then went home.
+I submitted my report and then went home.,neutral,frame:I {e} and then went home.
+I booked a table and then went home.,neutral,frame:I {e} and then went home.
+I picked up a parcel and then went home.,neutral,frame:I {e} and then went home.
+I joined a call and then went home.,neutral,frame:I {e} and then went home.
+After lunch I moved to a new desk.,neutral,frame:After lunch I {e}.
+After lunch I picked up a parcel.,neutral,frame:After lunch I {e}.
+After lunch I went to the library.,neutral,frame:After lunch I {e}.
+After lunch I renewed my card.,neutral,frame:After lunch I {e}.
+After lunch I booked a table.,neutral,frame:After lunch I {e}.
+After lunch I updated my calendar.,neutral,frame:After lunch I {e}.
+Earlier this week I picked up a parcel.,neutral,frame:Earlier this week I {e}.
+Earlier this week I went to the library.,neutral,frame:Earlier this week I {e}.
+Earlier this week I booked a table.,neutral,frame:Earlier this week I {e}.
+Earlier this week I joined a call.,neutral,frame:Earlier this week I {e}.
+Earlier this week I submitted my report.,neutral,frame:Earlier this week I {e}.
+Earlier this week I updated my calendar.,neutral,frame:Earlier this week I {e}.
+I just renewed my card.,neutral,frame:I just {e}.
+I just moved to a new desk.,neutral,frame:I just {e}.
+I just updated my calendar.,neutral,frame:I just {e}.
+I just went to the library.,neutral,frame:I just {e}.
+I just submitted my report.,neutral,frame:I just {e}.
+I just joined a call.,neutral,frame:I just {e}.
+I thought that class was good.,positive,adj:positive:good
+That class was really good.,positive,adj:positive:good
+"Honestly, the book seemed good.",positive,adj:positive:good
+The weather was really excellent.,positive,adj:positive:excellent
+"Honestly, the book seemed excellent.",positive,adj:positive:excellent
+I thought the service was excellent.,positive,adj:positive:excellent
+The food was really wonderful.,positive,adj:positive:wonderful
+I thought our meeting was wonderful.,positive,adj:positive:wonderful
+This app was wonderful.,positive,adj:positive:wonderful
+"Honestly, her presentation seemed lovely.",positive,adj:positive:lovely
+I thought the hotel was lovely.,positive,adj:positive:lovely
+Her presentation was lovely.,positive,adj:positive:lovely
+"Honestly, the concert seemed fantastic.",positive,adj:positive:fantastic
+The food was fantastic.,positive,adj:positive:fantastic
+I thought the trip was fantastic.,positive,adj:positive:fantastic
+"Honestly, the book seemed delightful.",positive,adj:positive:delightful
+I thought that class was delightful.,positive,adj:positive:delightful
+The hotel was delightful.,positive,adj:positive:delightful
+My commute was charming.,positive,adj:positive:charming
+My coffee was really charming.,positive,adj:positive:charming
+I thought this phone was charming.,positive,adj:positive:charming
+"Honestly, the movie seemed impressive.",positive,adj:positive:impressive
+This phone was really impressive.,positive,adj:positive:impressive
+I thought my day was impressive.,positive,adj:positive:impressive
+"Honestly, my commute seemed refreshing.",positive,adj:positive:refreshing
+I thought the restaurant was refreshing.,positive,adj:positive:refreshing
+The movie was really refreshing.,positive,adj:positive:refreshing
+Her presentation was cozy.,positive,adj:positive:cozy
+The concert was really cozy.,positive,adj:positive:cozy
+I thought the service was cozy.,positive,adj:positive:cozy
+The movie was stunning.,positive,adj:positive:stunning
+I thought this phone was stunning.,positive,adj:positive:stunning
+"Honestly, the concert seemed stunning.",positive,adj:positive:stunning
+This phone was satisfying.,positive,adj:positive:satisfying
+I thought that class was satisfying.,positive,adj:positive:satisfying
+This app was really satisfying.,positive,adj:positive:satisfying
+"Honestly, the service seemed terrific.",positive,adj:positive:terrific
+I thought the food was terrific.,positive,adj:positive:terrific
+The new update was terrific.,positive,adj:positive:terrific
+The concert was really pleasant.,positive,adj:positive:pleasant
+"Honestly, the lecture seemed pleasant.",positive,adj:positive:pleasant
+I thought the movie was pleasant.,positive,adj:positive:pleasant
+Her presentation was fabulous.,positive,adj:positive:fabulous
+I thought that class was fabulous.,positive,adj:positive:fabulous
+The hotel was really fabulous.,positive,adj:positive:fabulous
+"Honestly, my day seemed inspiring.",positive,adj:positive:inspiring
+I thought the movie was inspiring.,positive,adj:positive:inspiring
+Our meeting was really inspiring.,positive,adj:positive:inspiring
+"Honestly, the restaurant seemed relaxing.",positive,adj:positive:relaxing
+My day was really relaxing.,positive,adj:positive:relaxing
+The hotel was relaxing.,positive,adj:positive:relaxing
+"Honestly, our meeting seemed thrilling.",positive,adj:positive:thrilling
+The movie was really thrilling.,positive,adj:positive:thrilling
+I thought the new update was thrilling.,positive,adj:positive:thrilling
+Our meeting was rewarding.,positive,adj:positive:rewarding
+"Honestly, the new update seemed rewarding.",positive,adj:positive:rewarding
+Our meeting was really rewarding.,positive,adj:positive:rewarding
+The book was neat.,positive,adj:positive:neat
+I thought my day was neat.,positive,adj:positive:neat
+"Honestly, our meeting seemed neat.",positive,adj:positive:neat
+The hotel was really bad.,negative,adj:negative:bad
+"Honestly, the service seemed bad.",negative,adj:negative:bad
+I thought the food was bad.,negative,adj:negative:bad
+The hotel was really awful.,negative,adj:negative:awful
+I thought her presentation was awful.,negative,adj:negative:awful
+I thought the weather was unpleasant.,negative,adj:negative:unpleasant
+Our meeting was really unpleasant.,negative,adj:negative:unpleasant
+The book was unpleasant.,negative,adj:negative:unpleasant
+Our meeting was really disappointing.,negative,adj:negative:disappointing
+"Honestly, the hotel seemed disappointing.",negative,adj:negative:disappointing
+I thought my coffee was disappointing.,negative,adj:negative:disappointing
+"Honestly, the concert seemed miserable.",negative,adj:negative:miserable
+The book was miserable.,negative,adj:negative:miserable
+My day was really miserable.,negative,adj:negative:miserable
+"Honestly, the food seemed depressing.",negative,adj:negative:depressing
+My day was depressing.,negative,adj:negative:depressing
+That class was really depressing.,negative,adj:negative:depressing
+The lecture was really irritating.,negative,adj:negative:irritating
+I thought the hotel was irritating.,negative,adj:negative:irritating
+My coffee was irritating.,negative,adj:negative:irritating
+I thought the movie was lousy.,negative,adj:negative:lousy
+The concert was lousy.,negative,adj:negative:lousy
+"Honestly, the service seemed lousy.",negative,adj:negative:lousy
+"Honestly, the book seemed sloppy.",negative,adj:negative:sloppy
+I thought that class was sloppy.,negative,adj:negative:sloppy
+The game was really sloppy.,negative,adj:negative:sloppy
+"Honestly, the trip seemed stressful.",negative,adj:negative:stressful
+The movie was stressful.,negative,adj:negative:stressful
+The new update was really stressful.,negative,adj:negative:stressful
+The hotel was really terrible.,negative,adj:negative:terrible
+I thought the hotel was terrible.,negative,adj:negative:terrible
+Her presentation was terrible.,negative,adj:negative:terrible
+I thought this app was painful.,negative,adj:negative:painful
+"Honestly, our meeting seemed painful.",negative,adj:negative:painful
+The book was painful.,negative,adj:negative:painful
+The food was really tedious.,negative,adj:negative:tedious
+My day was tedious.,negative,adj:negative:tedious
+"Honestly, the restaurant seemed tedious.",negative,adj:negative:tedious
+I thought the service was infuriating.,negative,adj:negative:infuriating
+The food was infuriating.,negative,adj:negative:infuriating
+That class was really infuriating.,negative,adj:negative:infuriating
+The game was exhausting.,negative,adj:negative:exhausting
+"Honestly, the restaurant seemed exhausting.",negative,adj:negative:exhausting
+I thought her presentation was exhausting.,negative,adj:negative:exhausting
+The new update was really shameful.,negative,adj:negative:shameful
+I thought the new update was shameful.,negative,adj:negative:shameful
+That class was shameful.,negative,adj:negative:shameful
+I thought that class was chaotic.,negative,adj:negative:chaotic
+Our meeting was really chaotic.,negative,adj:negative:chaotic
+"Honestly, her presentation seemed chaotic.",negative,adj:negative:chaotic
+The concert was really heartbreaking.,negative,adj:negative:heartbreaking
+This phone was heartbreaking.,negative,adj:negative:heartbreaking
+I thought the new update was heartbreaking.,negative,adj:negative:heartbreaking
+The book was really disgusting.,negative,adj:negative:disgusting
+"Honestly, that class seemed disgusting.",negative,adj:negative:disgusting
+The concert was disgusting.,negative,adj:negative:disgusting
+I thought my day was sad.,negative,adj:negative:sad
+Our meeting was sad.,negative,adj:negative:sad
+"Honestly, the lecture seemed sad.",negative,adj:negative:sad
+This app was really ridiculous.,negative,adj:negative:ridiculous
+The trip was ridiculous.,negative,adj:negative:ridiculous
+"Honestly, her presentation seemed ridiculous.",negative,adj:negative:ridiculous
+I thought my day was new.,neutral,adj:neutral:new
+The restaurant was new.,neutral,adj:neutral:new
+"Honestly, the weather seemed new.",neutral,adj:neutral:new
+"Honestly, the service seemed old.",neutral,adj:neutral:old
+The book was old.,neutral,adj:neutral:old
+The weather was really old.,neutral,adj:neutral:old
+The trip was really quiet.,neutral,adj:neutral:quiet
+I thought the book was quiet.,neutral,adj:neutral:quiet
+That class was quiet.,neutral,adj:neutral:quiet
+"Honestly, the game seemed large.",neutral,adj:neutral:large
+My day was really large.,neutral,adj:neutral:large
+I thought the new update was large.,neutral,adj:neutral:large
+I thought the movie was small.,neutral,adj:neutral:small
+My coffee was really small.,neutral,adj:neutral:small
+"Honestly, our meeting seemed small.",neutral,adj:neutral:small
+"Honestly, our meeting seemed blue.",neutral,adj:neutral:blue
+I thought the movie was blue.,neutral,adj:neutral:blue
+The game was really blue.,neutral,adj:neutral:blue
+The food was really early.,neutral,adj:neutral:early
+"Honestly, the book seemed early.",neutral,adj:neutral:early
+My commute was early.,neutral,adj:neutral:early
+I thought this phone was late.,neutral,adj:neutral:late
+The movie was really late.,neutral,adj:neutral:late
+My day was late.,neutral,adj:neutral:late
+The food was really regular.,neutral,adj:neutral:regular
+I thought my commute was regular.,neutral,adj:neutral:regular
+"Honestly, the lecture seemed regular.",neutral,adj:neutral:regular
+I thought this phone was standard.,neutral,adj:neutral:standard
+"Honestly, my coffee seemed standard.",neutral,adj:neutral:standard
+The new update was standard.,neutral,adj:neutral:standard
+The food was really typical.,neutral,adj:neutral:typical
+I thought the service was typical.,neutral,adj:neutral:typical
+The book was typical.,neutral,adj:neutral:typical
+I thought the food was square.,neutral,adj:neutral:square
+The lecture was square.,neutral,adj:neutral:square
+The trip was really square.,neutral,adj:neutral:square
+The lecture was really round.,neutral,adj:neutral:round
+I thought our meeting was round.,neutral,adj:neutral:round
+"Honestly, the restaurant seemed round.",neutral,adj:neutral:round
+My day was really open.,neutral,adj:neutral:open
+I thought the book was open.,neutral,adj:neutral:open
+This app was open.,neutral,adj:neutral:open
+The hotel was really second.,neutral,adj:neutral:second
+The service was second.,neutral,adj:neutral:second
+I thought the book was second.,neutral,adj:neutral:second
+"Honestly, the game seemed local.",neutral,adj:neutral:local
+I thought the new update was local.,neutral,adj:neutral:local
+My commute was really local.,neutral,adj:neutral:local
+The game was not good.,negative,notadj:good
+The book was not excellent.,negative,notadj:excellent
+Her presentation was not lovely.,negative,notadj:lovely
+This app was not fantastic.,negative,notadj:fantastic
+The movie was not delightful.,negative,notadj:delightful
+The movie was not charming.,negative,notadj:charming
+The lecture was not brilliant.,negative,notadj:brilliant
+The restaurant was not impressive.,negative,notadj:impressive
+Her presentation was not gorgeous.,negative,notadj:gorgeous
+The lecture was not stunning.,negative,notadj:stunning
+Her presentation was not satisfying.,negative,notadj:satisfying
+The trip was not terrific.,negative,notadj:terrific
+The restaurant was not pleasant.,negative,notadj:pleasant
+The book was not fabulous.,negative,notadj:fabulous
+The service was not bad.,positive,notadj:bad
+The food was not poor.,positive,notadj:poor
+This phone was not awful.,positive,notadj:awful
+My coffee was not dreadful.,positive,notadj:dreadful
+The game was not unpleasant.,positive,notadj:unpleasant
+My coffee was not dull.,positive,notadj:dull
+The food was not disappointing.,positive,notadj:disappointing
+Her presentation was not miserable.,positive,notadj:miserable
+This app was not irritating.,positive,notadj:irritating
+My day was not annoying.,positive,notadj:annoying
+My day was not lousy.,positive,notadj:lousy
+This phone was not sloppy.,positive,notadj:sloppy
+The food was not stressful.,positive,notadj:stressful
+The hotel was not terrible.,positive,notadj:terrible
+My day was not infuriating.,positive,notadj:infuriating
+This app was not exhausting.,positive,notadj:exhausting
+I am not happy about this.,negative,notfeel:happy
+I feel happy today.,positive,feel1:happy
+I am not excited about this.,negative,notfeel:excited
+I feel excited today.,positive,feel1:excited
+I am not proud about this.,negative,notfeel:proud
+I feel proud today.,positive,feel1:proud
+I am not thrilled about this.,negative,notfeel:thrilled
+I am not relaxed about this.,negative,notfeel:relaxed
+I feel relaxed today.,positive,feel1:relaxed
+I am not sad about this.,positive,notfeel:sad
+I am not angry about this.,positive,notfeel:angry
+I am not upset about this.,positive,notfeel:upset
+I feel upset today.,negative,feel1:upset
+I am not worried about this.,positive,notfeel:worried
+I feel worried today.,negative,feel1:worried
+I am not scared about this.,positive,notfeel:scared
+I feel scared today.,negative,feel1:scared
+loved it 😍,positive,short:loved it 😍
+best day ever 🎉,positive,short:best day ever 🎉
+ngl that was lit,positive,short:ngl that was lit
+can't stop smiling 😊,positive,short:can't stop smiling 😊
+"thx so much, you rock 👍",positive,"short:thx so much, you rock 👍"
+yay!!! we did it,positive,short:yay!!! we did it
+soooo happy rn,positive,short:soooo happy rn
+this made my day <3,positive,short:this made my day <3
+10/10 would recommend,positive,short:10/10 would recommend
+"wow, absolutely stunning!",positive,"short:wow, absolutely stunning!"
+feeling great today!,positive,short:feeling great today!
+nailed it 💪,positive,short:nailed it 💪
+worst day ever 😭,negative,short:worst day ever 😭
+so bad :(,negative,short:so bad :(
+lol this sucks,negative,short:lol this sucks
+ngl that was trash,negative,short:ngl that was trash
+can't stop crying 😢,negative,short:can't stop crying 😢
+"ugh, so annoyed rn",negative,"short:ugh, so annoyed rn"
+this ruined my day,negative,short:this ruined my day
+"wow, absolutely horrible!",negative,"short:wow, absolutely horrible!"
+feeling awful today,negative,short:feeling awful today
+i give up 😞,negative,short:i give up 😞
+what a disaster!!,negative,short:what a disaster!!
+ok,neutral,short:ok
+just checking in,neutral,short:just checking in
+meeting at 3pm,neutral,short:meeting at 3pm
+see you at 5,neutral,short:see you at 5
+at the office now,neutral,short:at the office now
+will call later,neutral,short:will call later
+need to buy stamps,neutral,short:need to buy stamps
+back in ten minutes,neutral,short:back in ten minutes
+lunch is at noon,neutral,short:lunch is at noon
